@@ -1,0 +1,535 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(163, 163, 162);
+}
+
+
+
+.section1{
+    background-color: black;
+    color: white;
+    height: 60px;    
+  position: sticky;
+  top: 0;
+}
+
+
+.section1 button{
+    font-size: 17px;
+    height: 40px;
+    width: 50px;
+    background: rgb(223, 156, 55);
+    color: black;
+    margin-left: -5px;
+    border: white;
+    border-radius: 0 10px 10px 0;
+
+}
+
+
+#edit{
+    height: 40px;
+    width: 60px;
+    background-color: rgb(163, 163, 162);
+    border: none;
+    margin-left: 20px;
+    border-radius: 10px 0 0 10px;
+}
+
+.section1 input{
+    margin-left: -4px;
+    height: 40px ;
+    width: 350px;
+    text-align: center;
+   
+}
+
+.section1 img{
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.div{
+    float: left;
+    margin-top: 20px;
+    margin-left: 30px;
+    
+}
+
+.div a{
+    color: white;
+    text-decoration: none;
+}
+
+.div :hover{
+    border: 1px solid white;
+}
+
+.section1 img:hover{
+    border: 1px solid white;
+}
+
+.subdiv{
+    margin-top: 10px;
+     float: left;
+}
+
+
+
+.pre{
+    float: left;
+    /* border: 2px solid red;   */
+    height: 60px;
+    width: 150px;
+    margin-left: 50px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.pre1{
+    float: left;
+    /* border: 2px solid red;   */
+    height: 60px;
+    width: 110px;
+    margin-left: 30px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.pre1 a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.pre2 i{
+    float: left;
+    font-size: 40px;
+    
+}
+
+.cart{
+    margin-top: 10px;
+}
+
+.pre2 {
+     font-size: 20px;
+     /* border: 2px solid red;   */
+     float: left;
+     height: 60px;
+     width: 110px;
+     margin-left: 30px;
+     padding-top: 3px;
+     padding-left: 10px;
+
+    }
+
+   
+
+
+.pre2 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.header .space{
+    margin-left: -10px;
+}
+
+
+.header i{
+    margin-left: 15px;
+}
+
+.header i:hover{
+ border: 1px solid white;
+ 
+}
+
+.header{
+ background-color: rgb(35, 35, 36);
+ color: aliceblue;
+}
+
+.header button{
+ background-color: rgb(35, 35, 36);
+ color: aliceblue;
+}
+
+
+.carousel {
+    position: absolute;
+}
+
+.pics{
+    float: left;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.section4{
+    position: relative;
+    margin-top: 250px;
+    
+}
+
+
+.section5{
+    margin-top: 20px;
+   
+}
+
+
+.section6{
+    margin-top: 20px;
+    height: 370px;
+    width: 1290px;
+    /* border: 2px solid red; */
+    background-color: white;
+    margin-left: 30px;
+    
+}
+
+.images{
+    float: left;
+    margin-left: 7px;
+    text-align: center;
+    
+}
+
+.images img{
+    height: 250px;
+    width: 300px;
+ }
+
+
+ 
+.section7{
+    margin-top: 20px;
+    height: 330px;
+    width: 1290px;
+    /* border: 2px solid red; */
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+
+.photos {
+    height: 230px;
+    width: 240px;
+    float: left;
+    margin-left: 15px;
+}
+
+
+.section8{
+    margin-top: 20px;
+}
+
+.pics1{
+    float: left;
+}
+
+
+
+.section9{
+    height: 250px;
+    width: 900px;
+    margin-top: 30px;
+    margin-left: 220px;
+    border: 1px solid white;
+    background-color: white;
+}
+
+.section9 h6{
+    float: left;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.section9 img{
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.section9 p{
+    margin-top: 60px;
+    margin-left: 530px;
+}
+
+
+
+
+.section11{
+    margin-top: 20px;
+    height: 340px;
+    width: 1290px;
+    /* border: 2px solid red; */
+    background-color: white;
+    margin-left: 30px;
+   
+}
+
+
+
+.section11 img{
+    float: left;
+    margin-left: 18px;
+}
+
+
+
+
+.section12 iframe{
+    margin-top: 20px;
+}
+
+
+
+.vidslide{
+    margin-left: 500px;
+    
+}
+
+.section12{
+    padding: 10px 20px;
+    margin-top: 20px;
+    height: 420px;
+    width: 1290px;
+    /* border: 2px solid red; */
+    background-color: white;
+    margin-left: 30px;
+}
+
+.div1 img{
+
+    height: 200px;
+    width: 155px;
+
+}
+
+ .section12 .div1{
+    float: left;
+    margin-left: 10px;
+   height: 350px;
+   width: 180px;
+   padding: 10px;
+   border: 1px solid rgb(129, 110, 110);
+}
+
+
+.section14{
+    height: 180px;
+    background-color: #fff;
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+
+.section14 button{
+    background-color: orange;
+    width: 250px;
+    border: 1ps solid brown;
+    border-radius: 100px;
+}
+
+
+.section15{
+    height: 40px;
+    background-color: rgb(39, 39, 59);
+    color: white;
+    text-align: center;
+    
+}
+
+.section15 a{
+    margin-top: 20px;
+    color: white;
+}
+
+
+.section16{
+    height: 690px;
+    background-color: rgb(34, 34, 48);
+
+}
+
+
+.main{
+    height: 350px;
+    border: 1px solid white;
+    border-left: none;
+    border-right: none;
+}
+
+.footer{
+    height: 300px;
+    width: 200px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 140px;
+    color: white;
+    margin-top: 50px;
+}
+
+.footer1{
+    height: 300px;
+    width: 200px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 40px;
+    color: white;
+    margin-top: 50px;
+
+}
+
+
+.footer2{
+    height: 300px;
+    width: 350px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 40px;
+    color: white;
+    margin-top: 50px;
+}
+
+.footer3{
+    height: 300px;
+    width: 350px;
+    /* border: 2px solid red; */
+    color: white;
+    float: left;
+    margin-top: 50px;
+    margin-left: 0px;
+}
+
+
+.sub1{
+    margin-top: 40px;
+    
+}
+
+.sub1 pre{
+    margin-top: 40px;
+   color: white;   
+}
+
+.sub1 .subdiv{
+    margin-left: 50px;
+    
+}
+
+.section17{
+    height: 400px;
+    background-color: rgb(17, 15, 15);
+    color: white;
+}
+
+.loginimg{
+    margin-left: 600px;
+}
+
+form{
+    margin-left: 470px;
+    height: 400px;
+    width: 360px;
+    border: 1px solid rgb(31, 30, 30);
+
+}
+
+.inside{
+    margin-left: 20px;
+}
+
+
+
+.inside input{
+    width: 300px;
+}
+
+.inside button{
+   width: 300px;
+   margin-top: 20px;
+   background-color: orange;
+   border-radius: 10px;
+}
+
+
+.inside span{
+   color: blue;
+}
+
+.bullet{
+   color: blue;
+
+}
+
+.loginfoot{
+   margin-left: 480px;
+   margin-top: 20px;
+}
+
+.loginfoot button{
+   width: 350px;
+   text-align: center;
+   border-radius: 10px;
+}
+
+
+
+.newpage{
+    height: 560px;
+}
+
+.newpage{
+    padding: 20px;
+}
+
+.newpage input{
+    width: 310px;
+    height: 30px;
+}
+
+.newpage p{
+    margin-top: 20px;
+}
+
+.newpage button{
+    width: 310px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.newpage a{
+   text-decoration: none;
+}
+
+.newpage span{
+    color: blue;
+}
+
+
+.newfoot{
+    margin-left: 490px;
+    margin-top: 20px;
+}
+
